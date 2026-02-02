@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodefreak&label=Profile%20views&color=0e75b6&style=flat" alt="thecodefreak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodefreak" alt="thecodefreak" /></a> </p>
-
 - 🔭 I’m currently working @ [Harbour ATS](https://harbourats.com)
 
-- 🌱 I’m currently learning **Go**
-
-- 💬 I've worked on **JavaScript, PHP, Python, Shell Scripting, Server Management, MySQL, PostgreSQL, Laravel, Node.js, Nuxt.js, Express.js**
+- 💬 I've worked on **JavaScript, PHP, Go, Python, Shell Scripting, Server Management, MySQL, PostgreSQL, Laravel, Node.js, Nuxt.js, Express.js**
 
 - 📫 How to reach me **amaljohnronkha@protonmail.com**
 
